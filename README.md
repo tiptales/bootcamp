@@ -19,7 +19,7 @@ This repository contains prerequisites for the python and R warmups, information
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), cloning the repository or exercising with the online version of the book
 
 
-- If you're experienced in python, and already familiar with the three libraries used during the bootcamp([1.3-data-specifics](https://github.com/tiptales/bootcamp/tree/main/1-learning-path-python/1.3-data-specifics)), you can try to implement one of the [projects](https://github.com/tiptales/bootcamp/tree/main/3-projects/). The projects are not mandatory, they will be discussed at the end of the class with sudents who implemented them.
+- If you're experienced in python, and already familiar with the three libraries used during the bootcamp([1.3-data-specifics](https://github.com/tiptales/bootcamp/tree/main/1-learning-path-python/1.3-data-specifics)), you can try to implement one of the [projects](https://github.com/tiptales/bootcamp/tree/main/3-projects/). The projects are not mandatory, they will be discussed at the end of the class with students who implemented them.
 
 
 
