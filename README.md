@@ -6,7 +6,7 @@ This repository contains prerequisites for the python and R warmups, information
 
 #### The course is an initiation to data structures and algorithm with numpy, pandas and scikit-learn, and will cover the following topics: 
 
-      - Intermediate data structures and algorithm
+      - Intermediate data structures and algorithms
       - Understanding numpy arrays
       - Exploratory data analysis and visualisation with pandas
       - Initiation to data science
