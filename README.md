@@ -2,6 +2,15 @@
 
 This repository contains prerequisites for the python and R warmups, information on the course, and additional resources to go further.
 
+
+_This repository is a work in progress. If you cloned it, get the updates on a regular basis__
+
+
+```asciidoc
+git fetch
+git pull
+```
+
 ## python
 
 #### The course is an initiation to data structures and algorithms with numpy, pandas and scikit-learn, and will cover the following topics: 
@@ -23,5 +32,8 @@ This repository contains prerequisites for the python and R warmups, information
 
 
 
+## R
 
+- Prerequisites for the R warmup is a basic knowledge of programming that has been covered in the python warmup
+- Syllabus: [2-learning-path-R](https://github.com/tiptales/bootcamp/tree/main/2-learning-path-R)
 
