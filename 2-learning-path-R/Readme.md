@@ -26,10 +26,12 @@
 ### Resources
 
 
-| tutorial   | level  |
-|-----------|---------|
-| [Getting started tutorial](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf) | ![my badge](https://badgen.net/badge/level/beginners/green) |
-| [R for data science](https://r4ds.had.co.nz/) | ![my badge](https://badgen.net/badge/level/beginners/green) | 
+| tutorial                                                                                 | level                                                         |
+|------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| [Getting started tutorial](https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf) | ![my badge](https://badgen.net/badge/level/beginners/green)   |
+| [R for data science](https://r4ds.had.co.nz/)                                            | ![my badge](https://badgen.net/badge/level/beginners/green)   | 
+| [RStudio tutorials](https://education.rstudio.com/)                                      | ![my badge](https://badgen.net/badge/level/complete/grey)     |
+| [Advanced R](http://adv-r.had.co.nz/Functional-programming.html)                         | ![my badge](https://badgen.net/badge/level/intermediate/cyan) |
 
 
 | exercises                                                                                         | level  |
